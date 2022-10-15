@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuartaRevolucionIndustrial", "CuartaRevolucionIndustrial\CuartaRevolucionIndustrial.csproj", "{D3728BDA-A0AE-46EC-AB11-42A5D0CBD1EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuartaRevolucionIndustrial.Test", "CuartaRevolucionIndustrial.Test\CuartaRevolucionIndustrial.Test.csproj", "{DF9551EA-1261-4ECC-A0BE-B6EE04DD2339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3728BDA-A0AE-46EC-AB11-42A5D0CBD1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3728BDA-A0AE-46EC-AB11-42A5D0CBD1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3728BDA-A0AE-46EC-AB11-42A5D0CBD1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3728BDA-A0AE-46EC-AB11-42A5D0CBD1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9551EA-1261-4ECC-A0BE-B6EE04DD2339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9551EA-1261-4ECC-A0BE-B6EE04DD2339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9551EA-1261-4ECC-A0BE-B6EE04DD2339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9551EA-1261-4ECC-A0BE-B6EE04DD2339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57049DB5-84EF-4D8C-95D3-09E682AE6141}
+	EndGlobalSection
+EndGlobal
